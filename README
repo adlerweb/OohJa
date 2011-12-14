@@ -1,0 +1,11 @@
+========================
+ OohJa - Opsi ohne Java
+========================
+
+OohJa is a PHP-based replacement of the Java-GUI included in the
+client management system "OPSI" (Open PC Server Integration, www.opsi.org).
+It was designed becaue the author hates java - especially if JRE takes
+hours to load or is broken on a PC (again...). ;)
+
+OohJa is currently in an early developement stage - some parts may work,
+most do not. Patches accepted, deadlines not.

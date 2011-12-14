@@ -1,0 +1,6 @@
+TODO:
+
+- Splitten & Co
+- Icons tauschen
+- Lizenzmodule
+- Produktaktionen dynamisch
